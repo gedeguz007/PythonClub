@@ -59,7 +59,7 @@ class NewMeetingForm(TestCase):
         data = {
             'meeting_title':'beginner projects',
             'meeting_date':'2021-2-19',
-            'meeting_time':'',
+            'meeting_time':'18:00',
             'meeting_location': 'RayGun Lounge',
             'meeting_agenda': 'projects for beginners',
         }
